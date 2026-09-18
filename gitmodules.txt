@@ -1,0 +1,4 @@
+[submodule "3.Implementacao/Proj_Integrador_Codigo-Fonte"]
+	path = 3.Implementacao/Proj_Integrador_Codigo-Fonte
+	url = https://github.com/ThiagoSDFlausino/Proj_Integrador_Codigo-Fonte.git
+	branch = main
